@@ -1,0 +1,16 @@
+* {
+  --font-color:{{initParams.scene2.fontColor}};
+  --background-color:{{initParams.scene2.backgroundColor}};
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  color: var(--font-color);
+  background-color: var(--background-color);
+  font-size: 22px;
+  opacity: 0;
+}
