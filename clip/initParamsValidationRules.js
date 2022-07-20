@@ -4,6 +4,8 @@ export default {
     type: "object",
     props: {
       website: "string",
+      backgroundColor: "color",
+      fontColor: "color",
     },
   },
   scene2: {
@@ -13,6 +15,8 @@ export default {
       title: "string",
       header: "string",
       footer: "string",
+      backgroundColor: "color",
+      fontColor: "color",
     },
   },
   scene3: {
@@ -23,6 +27,8 @@ export default {
       header: "string",
       paragraph: "string",
       footer: "string",
+      backgroundColor: "color",
+      fontColor: "color",
     },
   },
   scene4: {
@@ -33,6 +39,8 @@ export default {
       header: "string",
       paragraph: "string",
       footer: "string",
+      backgroundColor: "color",
+      fontColor: "color",
     },
   },
 };

@@ -27,5 +27,7 @@ clip.addIncident(scene2("#scene-2"), 3000);
 clip.addIncident(scene3("#scene-3"), 6000);
 // starts at 12000 ends at 17000
 clip.addIncident(scene4("#scene-4"), 12000);
-clip.addIncident(scene2("#scene-5"), 17000); //18000
-clip.addIncident(scene1("#scene-6", false), 20000); //21000
+// starts at 17000 ends at 20000
+clip.addIncident(scene2("#scene-5"), 17000);
+// starts at 17000 ends at 23000
+clip.addIncident(scene1("#scene-6", false), 20000);

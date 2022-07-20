@@ -89,4 +89,3 @@ if (searchOptions.initParams) {
     }
   }, 100);
 }
-
