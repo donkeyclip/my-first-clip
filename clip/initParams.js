@@ -16,7 +16,7 @@ export default [
       },
       scene3: {
         image:
-          "https://compass-ssl.microsoft.com/assets/f9/4c/f94c2916-6a4e-4cbc-9bc1-9f0e0f4ee46c.png?n=ioc_home_bottomleft_4up_491x276.png",
+          "https://donkey-spaces.ams3.cdn.digitaloceanspaces.com/assets/dc-presentation/man-on-desk.png",
         title: "Dynamic Videos",
         header: "Create your video template as if you were creating a website",
         paragraph:
@@ -27,7 +27,7 @@ export default [
       },
       scene4: {
         image:
-          "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE396Qp?ver=ae27&q=90&h=1350&w=1660&b=%23FFFFFFFF&aim=true",
+          "https://donkey-spaces.ams3.cdn.digitaloceanspaces.com/assets/dc-presentation/woman-on-desk.webp",
         title: "Become part of the community",
         header: "and experience the fun of being a video developer",
         paragraph:
